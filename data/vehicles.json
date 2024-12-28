@@ -1,0 +1,14 @@
+[
+    {
+        "name": "BMW10",
+        "type": "car",
+        "price": "1000",
+        "image": "https:\/\/www.shutterstock.com\/image-photo\/st-petersburg-russia-september-27-260nw-2049866954.jpg"
+    },
+    {
+        "name": "Volvo new",
+        "type": "car",
+        "price": "12000",
+        "image": "https:\/\/imgd.aeplcdn.com\/1920x1080\/n\/cw\/ec\/131135\/xc90-exterior-right-front-three-quarter-105.jpeg"
+    }
+]
